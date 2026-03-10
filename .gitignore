@@ -1,0 +1,5 @@
+# JANGAN SAMPAI RAHASIA NEGARA BOCOR KE GITHUB!
+.streamlit/secrets.toml
+nexus_talent.db
+__pycache__/
+*.pyc

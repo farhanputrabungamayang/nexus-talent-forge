@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+SQLAlchemy
+PyPDF2
+google-generativeai
+fpdf
+Pillow
+requests
+openpyxl
